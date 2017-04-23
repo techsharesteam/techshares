@@ -152,7 +152,7 @@ namespace detail {
          else
          {
             vector<string> seeds = {
-			   "120.25.156.160:1776"
+			   "www.techsharescommunity.com:1776"
             };
             for( const string& endpoint_string : seeds )
             {
